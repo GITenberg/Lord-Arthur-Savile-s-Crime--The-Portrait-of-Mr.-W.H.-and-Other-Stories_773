@@ -1,0 +1,46 @@
+_repo: Lord-Arthur-Savile-s-Crime--The-Portrait-of-Mr.-W.H.-and-Other-Stories_773
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: "Lord Arthur Savile's Crime and Other Stories is a collection of short\
+  \ semi-comic mystery stories that were written by Oscar Wilde and published in 1891.\
+  \ It includes:\n″Lord Arthur Savile's Crime″\n″The Canterville Ghost″\n″The Sphinx\
+  \ Without a Secret″\n″The Model Millionaire″\nIn later editions, another story,\
+  \ ″The Portrait of Mr. W. H.″, was added to the collection.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '773'
+  wikidata: Q1810331
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Short stories, English'
+- GITenberg
+tableOfContents: Lord Arthur Savile's Crime -- The Canterville Ghost -- The Sphinx
+  Without a Secret -- The Model Millionaire -- The Portrait of Mr. W. H.
+title: Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories
+url: http://www.gutenberg.org/ebooks/773
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Fant%C3%B4me_de_Canterville_et_autres_nouvelles
+- https://nl.wikipedia.org/wiki/Lord_Arthur_Savile%27s_Crime_and_Other_Stories
+- https://cs.wikipedia.org/wiki/Zlo%C4%8Din_lorda_Arthura_Savila
+- https://es.wikipedia.org/wiki/El_crimen_de_lord_Arthur_Savile_y_otras_historias
+- https://en.wikipedia.org/wiki/Lord_Arthur_Savile%27s_Crime_and_Other_Stories
+- https://uk.wikipedia.org/wiki/%D0%97%D0%BB%D0%BE%D1%87%D0%B8%D0%BD_%D0%BB%D0%BE%D1%80%D0%B4%D0%B0_%D0%90%D1%80%D1%82%D1%83%D1%80%D0%B0_%D0%A1%D0%B5%D0%B2%D0%B0%D0%B9%D0%BB%D0%B0_%D1%82%D0%B0_%D1%96%D0%BD%D1%88%D1%96_%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%97
+- https://he.wikipedia.org/wiki/%D7%A4%D7%A9%D7%A2%D7%95_%D7%A9%D7%9C_%D7%9C%D7%95%D7%A8%D7%93_%D7%90%D7%A8%D7%AA%D7%95%D7%A8_%D7%A1%D7%90%D7%91%D7%99%D7%9C
